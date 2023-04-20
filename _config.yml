@@ -1,11 +1,11 @@
 title: Nicholas Magal # your name (or website title) here
 logo: "/IMG_2141.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Greetings! I am a data science professional with a passion for applying machine learning to high impact problems. I am currently starting to work at NextEra as an Associate Data Scientist, and previously worked at Alstom and Nielsen.
   <br><br>
-  Second description 
+  I received my Master's in Music and Technology from Carnegie Mellon University, where I studied machine learning applications to music.  
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/nicholas-magal-45214012a/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
