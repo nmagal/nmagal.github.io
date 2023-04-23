@@ -2,16 +2,17 @@
 
 ---
 
-### Research and Projects 
+### Modality Drop For Co-learning
 
-[Modality Drop For Co-learning](https://github.com/nmagal/modality_drop_for_colearning)
-
-<p float="left">
-  <img src="images/NCLPCL.png?raw=true" width="30%" />
-  <img src="images/res_iemo.png?raw=true" width="30%" /> 
-</p>
+<figure>
+  <img src="images/NCLPCL.png?raw=true"/>
+  <figcaption> Figure 1: Definition of postive, negative, and nuertral co-learning</figcaption>
+</figure>
+<img src="images/res_iemo.png?raw=true"/>
 
 This research project explores the effect of modality dropout during co-learning. We find that by using aggressive modality dropout we are able to reverse negative co-learning (NCL) to positive co-learning (PCL).
+
+[View Code and Paper Here](https://github.com/nmagal/modality_drop_for_colearning)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
