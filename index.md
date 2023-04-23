@@ -33,7 +33,7 @@ In this project various different model designs are evaluated on the objective o
 ---
 ### Resnet34 Reimplementation
 
-In this project I reimplement Resent34. Residual blocks are implemented, and the model is tested on both image classification and face verification. Face verification is performed by using the image pair distance of embeddings created by using the created Resnet34 trained on image classification.
+In this project I reimplement Resent34. Residual blocks are implemented, and the model is tested on both image classification and face verification. Face verification is performed by using the image pair distance of embeddings created by using Resnet34 trained on image classification.
 
 [View Code Here](https://github.com/nmagal/Assignments/tree/master/Intro%20to%20Deep%20Learning/pytorch/resnet)
 
