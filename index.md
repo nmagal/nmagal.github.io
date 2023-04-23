@@ -4,7 +4,7 @@
 
 ### Modality Drop For Co-learning
 
-This research project explores the effect of modality dropout during co-learning. We find that by using aggressive modality dropout we can reverse negative co-learning (NCL) to positive co-learning (PCL).
+We find that by using aggressive modality dropout we are able to reverse negative co-learning (NCL) to positive co-learning (PCL). Aggressive modality dropout can be used to ’prep’ a multimodal model for unimodal deployment, and dramatically increases model performance during negative co-learning, where during some experiments we saw a 20% gain in accuracy.
 
 <figure>
   <img src="images/res_iemo.png?raw=true"/>
@@ -12,7 +12,8 @@ This research project explores the effect of modality dropout during co-learning
 </figure>
 
 
-[View Code and Paper Here](https://github.com/nmagal/modality_drop_for_colearning)
+[View Repo Here](https://github.com/nmagal/modality_drop_for_colearning)
+[View Paper Here](https://drive.google.com/file/d/1bwqcazWJhACQkEVYfpYC_pG_IeetzBvR/view)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
