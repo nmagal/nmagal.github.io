@@ -4,8 +4,14 @@
 
 ### Research and Projects 
 
-[Modality Drop For Colearning](https://github.com/nmagal/modality_drop_for_colearning)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Modality Drop For Co-learning](https://github.com/nmagal/modality_drop_for_colearning)
+
+<p float="left">
+  <img src="images/NCLPCL.png?raw=true" width="30%" />
+  <img src="images/res_iemo.png?raw=true" width="30%" /> 
+</p>
+
+This research project explores the effect of modality dropout during co-learning. We find that by using aggressive modality dropout we are able to reverse negative co-learning (NCL) to positive co-learning (PCL).
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
