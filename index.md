@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Research and Projects 
 
-[Project 1 Title](/sample_page)
+[Modality Drop For Colearning](https://github.com/nmagal/modality_drop_for_colearning)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
