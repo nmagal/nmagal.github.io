@@ -2,6 +2,14 @@
 
 ---
 
+### Evaluation of Deep Music Features for Music Recommendation Systems
+As the quantity of songs stored online increases, users are relying more on music recommendation systems to find new music, and the importance of music recommendation systems are increasing. Currently, one of the state of the art representation learning methods in Music Information Retrieval (MIR) is to use features obtained from Jukebox, a Transformer based model capable of generating audio. However, little work has been done in evalu- ating how Jukebox features perform compared to other features in context of music recommender systems. In this research, tests are run evaluating the effectiveness and semantic differences of different types of music features used for retrieving similar sounding songs in a simple content-based song rec- ommendation system, with the goal of seeing how Jukebox features perform relative to other embedding methods.
+
+[View Repo Here](https://github.com/nmagal/deep_music_embeddings_for_rec_sys)
+
+[View Paper Here](https://drive.google.com/file/d/1IcAgyNX-oLxC7kDvxPVWbWh5sM9bhdF3/view?usp=share_link)
+
+---
 ### Modality Drop For Co-learning
 
 We find that by using aggressive modality dropout we are able to reverse negative co-learning (NCL) to positive co-learning (PCL). Aggressive modality dropout can be used to ’prep’ a multimodal model for unimodal deployment, and dramatically increases model performance during negative co-learning, where during some experiments we saw a 20% gain in accuracy.
@@ -14,7 +22,7 @@ We find that by using aggressive modality dropout we are able to reverse negativ
 
 [View Repo Here](https://github.com/nmagal/modality_drop_for_colearning)
 
-[View Paper Here](https://drive.google.com/file/d/1bwqcazWJhACQkEVYfpYC_pG_IeetzBvR/view)
+[View Paper Here](https://drive.google.com/file/d/1eh_gAMi15dxSTqfn4n0RKp-PfGv-n00P/view?usp=share_link)
 
 ---
 ### Utterance to Phoneme Ablation Report
