@@ -52,11 +52,11 @@ In *Improving Audio Tagging with Pretraining, Sampling, Labeling, and Aggregatio
 Results do not show too much difference from pretraining and random initialization of a model, and in some cases the pretrained model actually performs worse than the randomly initialized model. Therefore, it does not seem like there is an useful knowledge retained from the model by pretraining on the MagnaTagATune Dataset. Results are shown in the image below. The number in front of each run indicates how much of the training data of the target dataset that the model was trained on For example, pretrained_.07 indicates the pretrained model's performance using 70% of the Caltech256 dataset.
 
 <figure>
-  <img src="images/W&B Chart 12_12_2022, 7_27_29 PM.png?raw=true"/>
+  <img src="images/transfer_learning?raw=true"/>
   <figcaption> Results of pretraining on audio vs random initialization</figcaption>
 </figure>
 
-[View Repo Here] (https://github.com/nmagal/transfer_learning_audio_to_images)
+[View Repo Here](https://github.com/nmagal/transfer_learning_audio_to_images)
 
 ---
 ### Resnet34 Reimplementation
