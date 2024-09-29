@@ -3,8 +3,10 @@ logo: "/IMG_2141.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Greetings! I am a Data Scientist at NextEra, with a passion for applying machine learning to high impact problems. Some of my primary work at NextEra has been automating the work orders of NextEra's nuclear fleet, speeding up what used to be a manual process. 
   <br><br>
-  I comppleted my Master's in Music and Technology from Carnegie Mellon University, where I studied machine learning applications to music, and completed my undergraduate at University of Miami, where I majored in Computer Science and minored in Mathematics.    
+  This website features a subset of some of the most interesting side projects I have completed. If anything is of interest, please feel free to reach out to discuss further. 
   <br><br>
+
+  <
   <a href="https://www.linkedin.com/in/nicholas-magal-45214012a/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
