@@ -7,7 +7,7 @@ As the quantity of songs stored online increases, users are relying more on musi
 
 <figure>
   <img src="images/rec_perf.png?raw=true"/>
-  <figcaption> Figure: Average accuracy of different features across different levels of N top tracks.</figcaption>
+  <figcaption> Average accuracy of different features across different levels of N top tracks.</figcaption>
 </figure>
 
 
@@ -23,7 +23,7 @@ We find that by using aggressive modality dropout we are able to reverse negativ
 
 <figure>
   <img src="images/res_iemo.png?raw=true"/>
-  <figcaption> Figure: Results for using different levels of modality dropout on IEMOCAP dataset</figcaption>
+  <figcaption> Results for using different levels of modality dropout on IEMOCAP dataset</figcaption>
 </figure>
 
 
@@ -38,7 +38,7 @@ In this project various different model designs are evaluated on the objective o
 
 <figure>
   <img src="images/W&B Chart 12_12_2022, 7_27_29 PM.png?raw=true"/>
-  <figcaption> Figure: Results from using different model and hyperparamter configurations</figcaption>
+  <figcaption> Results from using different model and hyperparamter configurations</figcaption>
 </figure>
 
 [View Notebook Here](https://github.com/nmagal/Assignments/blob/master/Intro%20to%20Deep%20Learning/pytorch/utterance_LSTMs/UtterancetoPhoneme.ipynb)
