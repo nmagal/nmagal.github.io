@@ -5,6 +5,13 @@
 ### Evaluation of Deep Music Features for Music Recommendation Systems
 As the quantity of songs stored online increases, users are relying more on music recommendation systems to find new music, and the importance of music recommendation systems are increasing. Currently, one of the state of the art representation learning methods in Music Information Retrieval (MIR) is to use features obtained from Jukebox, a Transformer based model capable of generating audio. However, little work has been done in evalu- ating how Jukebox features perform compared to other features in context of music recommender systems. In this research, tests are run evaluating the effectiveness and semantic differences of different types of music features used for retrieving similar sounding songs in a simple content-based song rec- ommendation system, with the goal of seeing how Jukebox features perform relative to other embedding methods.
 
+<figure>
+  <img src="images/rec_perf.png?raw=true"/>
+  <figcaption> Figure: Average accuracy of different features across different levels of N top tracks.</figcaption>
+</figure>
+
+
+
 [View Repo Here](https://github.com/nmagal/deep_music_embeddings_for_rec_sys)
 
 [View Paper Here](https://drive.google.com/file/d/1IcAgyNX-oLxC7kDvxPVWbWh5sM9bhdF3/view?usp=share_link)
@@ -16,7 +23,7 @@ We find that by using aggressive modality dropout we are able to reverse negativ
 
 <figure>
   <img src="images/res_iemo.png?raw=true"/>
-  <figcaption> Figure 2: Results for using different levels of modality dropout on IEMOCAP dataset</figcaption>
+  <figcaption> Figure: Results for using different levels of modality dropout on IEMOCAP dataset</figcaption>
 </figure>
 
 
@@ -31,7 +38,7 @@ In this project various different model designs are evaluated on the objective o
 
 <figure>
   <img src="images/W&B Chart 12_12_2022, 7_27_29 PM.png?raw=true"/>
-  <figcaption> Figure 1: Results from using different model and hyperparamter configurations</figcaption>
+  <figcaption> Figure: Results from using different model and hyperparamter configurations</figcaption>
 </figure>
 
 [View Notebook Here](https://github.com/nmagal/Assignments/blob/master/Intro%20to%20Deep%20Learning/pytorch/utterance_LSTMs/UtterancetoPhoneme.ipynb)
